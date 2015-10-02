@@ -1,5 +1,5 @@
 function Clicker = function(){
-	//some code
+	document.getElementById
 }
 
 var clicker = new Clicker();
